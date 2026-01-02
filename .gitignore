@@ -1,0 +1,8 @@
+.env
+bot
+bot.exe
+__debug_bin
+vendor/
+.idea/
+.vscode/
+*.log
